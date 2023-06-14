@@ -6,7 +6,9 @@ body{
     color: #333333;
     background-image: url("../imagens/dedia.jpg");
     background-repeat:  no-repeat;
-    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 
 }
 
